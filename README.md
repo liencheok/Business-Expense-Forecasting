@@ -1,9 +1,15 @@
 # Business Expense Forecasting (Internship Project)
+Overview:
+This project analyzes multi-year company expense data to forecast future expenses and identify cost trends, supporting budgeting and management decision-making.
 
-This project analyzes historical company expense data to identify trends and support planning decisions.
+Methods:
+- Cleaned and structured datasets using Python and Excel.
+- Built Excel-based forecasting models and compared approaches for management reporting.
+- Automated parts of data processing workflow using Python.
 
-- Cleaned and structured multi-year expense data
-- Built Excel-based forecasts to project future expenses
-- Produced summary reports to support internal decision-making
+Skills & Tools:
+Excel (Pivot Tables, Forecasting, Formulas), Python (Pandas, Matplotlib), Data Cleaning, Financial Reporting
 
-Skills: Excel (forecasting, trend analysis), data cleaning, reporting
+Key Results:
+- Identified major cost drivers and trends.
+- Produced management-ready reports and dashboards to support financial planning.
